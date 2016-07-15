@@ -1,0 +1,36 @@
+/************************************
+COMMON ATTRIBUTES
+*************************************/
+@import url(https://fonts.googleapis.com/css?family=Graduate);
+
+body{
+  /*background:#0E1D3A url("../img/bg.png") center top no-repeat;*/
+  background:#2c3e50;
+  color:#E2E2E2;
+  font-size:1.5em;
+  text-align:center;
+  vertical-align:middle;
+}
+
+.center {
+  margin:0 auto;
+  padding:0;
+  clear:both;
+  text-align:center;
+}
+
+#container{
+position: fixed;
+width:200px;
+height:100px;
+top:50%;
+left:50%;
+margin-left:-100px;
+margin-top:-50px;
+}
+
+#b_width{
+}
+
+#b_height{
+}
